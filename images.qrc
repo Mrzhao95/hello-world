@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/icon.ico</file>
+        <file>icon/path.png</file>
+        <file>icon/point.png</file>
+        <file>icon/save.png</file>
+        <file>icon/station.png</file>
+        <file>icon/bottom.png</file>
+        <file>icon/center.png</file>
+        <file>icon/left.png</file>
+        <file>icon/middle.png</file>
+        <file>icon/right.png</file>
+        <file>icon/top.png</file>
+        <file>icon/border.png</file>
+        <file>icon/b.png</file>
+        <file>icon/p.png</file>
+        <file>icon/r.png</file>
+    </qresource>
+</RCC>
